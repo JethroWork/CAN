@@ -1,3 +1,6 @@
+Source From:
+https://github.com/zhaolion/CAN
+
 # CAN
 Version: 1.0 2015.8.17<br>
 一個對ZLG CAN的C#包裝庫
