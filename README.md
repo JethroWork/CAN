@@ -1,8 +1,9 @@
 # CAN
-一个对ZLG CAN 的C# 包装库
-#简单说明
 Version: 1.0 2015.8.17<br>
-CAN type：周立功CAN USB2（ZLG USB2）<br>
+一個對ZLG CAN的C#包裝庫
+#簡單說明 Version: 1.0
+2015.8.17 CAN type：周立功CAN USB2（ZLG USB2）
+<br>
 
 使用范例：<br>
 
